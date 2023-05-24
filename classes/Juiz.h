@@ -1,4 +1,4 @@
-#include <Pessoa.h>
+#include "Pessoa.h"
 
 class Juiz : public Pessoa
 {
